@@ -5,7 +5,7 @@ Propietary front end app alternatives
 
 Play store - Aurora Droid
 
-Youtube - Newpipe/ Youtube Vanced
+Youtube - Newpipe
 
 Twitch - twire
 
