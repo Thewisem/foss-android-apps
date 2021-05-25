@@ -4,36 +4,65 @@ App store: Fdroid
 Propietary front end app alternatives
 
 Play store - Aurora Droid
+
 Youtube - Newpipe/ Youtube Vanced
+
 Twitch - twire
+
 Twitter - fritter
+
 Telegram - Telegram foss
+
 Facebook - SlimSocial
+
 Instagram- Barinsta
+
 Reddit - Stealth or Infinity
 
 Google App and Social Media Replacements
+
 Hangouts - Signal (under some problems due to cryptocurrency) or Session
+
 Maps - OpenStreetMaps
+
 Youtube: Peertube or LBRY. Or Invidious for youtube videos without google tracking
+
 Twitter - Mastodon
+
 Facebook - Mastodon/Diaspora.
+
 Instagram- Pixelfed/Plermora
+
 Google Source code developement or Github - Gitlab or Codeberg
+
 Google Photos - Stingle
+
 Google Play - Fdroid
+
 Reddit - Lemmy
+
 Google Meet/Zoom: Jitsi Meet
+
 Google Drive - Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)
+
 Google Notes - Nextcloud notes, etesync or standard notes
+
 Google Tasks - SimpleTasks or Nextcloud Tasks
+
 Whatsapp - Signal/Session, or Jami
+
 Google Camera - Open Camera
+
 Google Translate - Libre Translate
-Google Chrome - Firefox or Bromite. Ya know firefox. Bromite is an privacy version of chrome. Try it. And tor is the safest browser on android.
+
+Google Chrome - Firefox or Bromite. Ya know firefox. Bromite is an privacy version of chrome. Try it. And tor is the safest browser on android. Firefox on android is not great. I would reccomend on fenix on fdroid which is a fork of firefox but it has less trackers as compared to firefox
+
 Microsoft word/Excel/powerpoint - Collabora Office on mobile. LibreOffice on desktop
+
 Gboard - AnySoftKeyboard or FlorisBoard. Pick your poison
+
 Dischord - Matrix.org. Android client element
+
 Gmail - ProtonMail
 
 FOSS apps you should try available on fdroid
