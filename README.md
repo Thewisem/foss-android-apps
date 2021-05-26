@@ -6,7 +6,7 @@
 |Proprietary front ends|Foss front ends|
 |----------------------|---------------|
 |Play store|Aurora Droid|
-|[Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dyoutube&pcampaignid=APPU_1_CUGuYLTAA9etoATQoqrgDw)|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
+|[Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dyoutube&pcampaignid=APPU_1_CUGuYLTAA9etoATQoqrgDw)|[Newpipe](https://github.com/TeamNewPipe/NewPipe)<sup>**[[Fdroid](https://www.f-droid.org/)]**
 |[Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitch&pcampaignid=APPU_1_eEGuYLiPEdWB-QbLpLbgDw)|[twire](https://f-droid.org/packages/com.perflyst.twire)|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitter&pcampaignid=APPU_1_70GuYKvgDbCh-QbZ9bK4AQ)|[fritter](https://f-droid.org/packages/com.jonjomckay.fritter)|
 |[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtelegram&pcampaignid=APPU_1_6TyuYKGAIMG9hwPxlKOIBA)|[Telegram foss](https://f-droid.org/packages/org.telegram.messenger) or [Nekogram X](https://fdroid.org/packages/nekox.messenger)|
@@ -24,13 +24,13 @@
 ## Google App and Social Media Replacements
 |GApps and Social Media|Federated or FOSS alternatives|
 |----------------------|------------------------------|
-|Hangouts|Signal (under some problems due to cryptocurrency) or Session|
-|Maps|OpenStreetMaps|
-|Youtube|Peertube or LBRY. Or Invidious for youtube videos without google tracking|
-|Twitter|Mastodon|
-|Facebook|Mastodon/Diaspora|
-|Instagram|Pixelfed/Plermora|
-|Google Source code developement or Github|Gitlab or Codeberg|
+|[Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dhangouts&pcampaignid=APPU_1_4WCuYPyrGc7i-AbLtKOQDw)|[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dsignal&pcampaignid=APPU_1_Y2GuYICLOdD6wQO0tL_QCQ) (under some problems due to cryptocurrency) or [Session](https://github.com/oxen-io/session-android)|
+|[Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dgoogle+maps&pcampaignid=APPU_1_I2KuYPD_J5X7wQO47pa4DQ)|[OpenStreetMaps](https://f-droid.org/en/packages/net.osmand.plus/)|
+|[Youtube](https://www.youtube.com/)|[Peertube](https://joinpeertube.org/) or [LBRY](https://lbry.com/). Or Invidious for youtube videos without google tracking|
+|[Twitter](https://twitter.com/?lang=en)|[Mastodon](https://joinmastodon.org/)|
+|[Facebook](https://www.facebook.com/)|[Mastodon](https://joinmastodon.org/)/[Diaspora](https://diasporafoundation.org/)|
+|[Instagram](https://www.instagram.com/)|[Pixelfed](https://pixelfed.social/)/[Plermora](https://pleroma.social/)|
+|Google Source code developement or [Github](https://github.com/)|[Gitlab](https://about.gitlab.com/) or [Codeberg](https://codeberg.org/)|
 |Google Photos|Stingle|
 |Google Play|Fdroid|
 |Reddit|Lemmy|
