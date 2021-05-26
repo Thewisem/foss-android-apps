@@ -68,13 +68,13 @@ Dischord - Matrix.org. Android client element
 
 Gmail - ProtonMail
 
-FOSS apps you should try available on fdroid
+## FOSS apps you should try available on fdroid
 
-Tachiyomi - Manga Reader
-
-Kotatsu- Manga Reader
-
-Loop Habit Tracker - Your habit tracking app. Start your new habit with this
+|App|My personal description|
+|---|-----------------------|
+|Tachiyomi|Manga Reader|
+|Kotatsu|Manga Reader|
+|Loop Habit Tracker|Your habit tracking app. Start your new habit with this.|
 
 Noice - A relaxing nature sound app. Create your own nature using the sounds in this app
 
