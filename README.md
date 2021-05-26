@@ -81,7 +81,7 @@
 |Tickmate|Basically if you did a stuff in a day, you can use this journal to tick that you did that action that day. Its UI is old. But its use cases are kinda good|
 |LibreSpeed|Check your internet speed. Don't worry Jimmy, you will always have kb/s internet speed no matter which app you try|
 |Xournal++|This is a S note like app for people who have a pen for their tablets and are not like us plebs.
-Simple Mobile Tools - This includes simple file manager, simple gallery etc. This is a replacement for stock file or gallery or etc. Made by a the same people|
+|Simple Mobile Tools|This includes simple file manager, simple gallery etc. This is a replacement for stock file or gallery or etc. Made by a the same people|
 |AnonAddy |An alias email maker. Want to try out that sketchy website and see what all notifications you get but are afraid of our email being leaked in a server leak. Then use this. This gives you an alias email connected to an original email. So you can still get notifications and still have the option to remove the alias if it was leaked. So yeah|
 |SimpleLogin|Same as Anonaddy except there is a limit to how much alias you can make|
 |Fedilab|For people who are too lazy to download and handle many of my google and propietary alternative to social media, use this. It will connect you to the fediverse. Which includes mastodon,plemora,pixelfed etc|
