@@ -24,15 +24,15 @@
 ## Google App and Social Media Replacements
 |GApps and Social Media|Federated or FOSS alternatives|
 |----------------------|------------------------------|
-|[Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dhangouts&pcampaignid=APPU_1_4WCuYPyrGc7i-AbLtKOQDw)|[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dsignal&pcampaignid=APPU_1_Y2GuYICLOdD6wQO0tL_QCQ) (under some problems due to cryptocurrency) or [Session](https://github.com/oxen-io/session-android)|
-|[Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dgoogle+maps&pcampaignid=APPU_1_I2KuYPD_J5X7wQO47pa4DQ)|[OpenStreetMaps](https://f-droid.org/en/packages/net.osmand.plus/)|
+|[Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dhangouts&pcampaignid=APPU_1_4WCuYPyrGc7i-AbLtKOQDw) <sup>**[[Play Store](https://play.google.com/)]**</sup>|[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dsignal&pcampaignid=APPU_1_Y2GuYICLOdD6wQO0tL_QCQ) <sup>**[[Play Store](https://play.google.com/)]**</sup> (under some problems due to cryptocurrency) or [Session](https://github.com/oxen-io/session-android)|
+|[Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dgoogle+maps&pcampaignid=APPU_1_I2KuYPD_J5X7wQO47pa4DQ) <sup>**[[Play Store](https://play.google.com/)]**</sup>|[OpenStreetMaps](https://f-droid.org/en/packages/net.osmand.plus/)|
 |[Youtube](https://www.youtube.com/)|[Peertube](https://joinpeertube.org/) or [LBRY](https://lbry.com/). Or Invidious for youtube videos without google tracking|
 |[Twitter](https://twitter.com/?lang=en)|[Mastodon](https://joinmastodon.org/)|
 |[Facebook](https://www.facebook.com/)|[Mastodon](https://joinmastodon.org/)/[Diaspora](https://diasporafoundation.org/)|
 |[Instagram](https://www.instagram.com/)|[Pixelfed](https://pixelfed.social/)/[Plermora](https://pleroma.social/)|
 |Google Source code developement or [Github](https://github.com/)|[Gitlab](https://about.gitlab.com/) or [Codeberg](https://codeberg.org/)|
-|Google Photos|Stingle|
-|Google Play|[Fdroid](https://www.f-droid.org/)|
+|Google Photos <sup>**[[Play Store](https://play.google.com/)]**</sup>|Stingle|
+|[Google Play](https://play.google.com/)]|[Fdroid](https://www.f-droid.org/)|
 |Reddit|Lemmy|
 |Google Meet/Zoom|Jitsi Meet|
 |Google Drive|Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)|
