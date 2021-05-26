@@ -6,11 +6,11 @@ App store: Fdroid
 |Proprietary front ends|Foss front ends|
 |----------------------|---------------|
 |Play store|Aurora Droid|
-|Youtube|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
-|Twitch|[twire](https://f-droid.org/packages/com.perflyst.twire)|
-|Twitter|[fritter](https://f-droid.org/packages/com.jonjomckay.fritter)|
+|[Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dyoutube&pcampaignid=APPU_1_CUGuYLTAA9etoATQoqrgDw)|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
+|[Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitch&pcampaignid=APPU_1_eEGuYLiPEdWB-QbLpLbgDw)|[twire](https://f-droid.org/packages/com.perflyst.twire)|
+|[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitter&pcampaignid=APPU_1_70GuYKvgDbCh-QbZ9bK4AQ)|[fritter](https://f-droid.org/packages/com.jonjomckay.fritter)|
 |[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtelegram&pcampaignid=APPU_1_6TyuYKGAIMG9hwPxlKOIBA)|[Telegram foss](https://f-droid.org/packages/org.telegram.messenger) or [Nekogram X](https://fdroid.org/packages/nekox.messenger)|
-|Facebook|SlimSocial|
+|Facebook|[SlimSocial](https://f-droid.org/packages/it.rignanese.leo.slimfacebook) or [frost](https://f-droid.org/packages/com.pitchedapps.frost)|
 |Instagram|Barinsta|
 |Reddit|Stealth or Infinity|
 
