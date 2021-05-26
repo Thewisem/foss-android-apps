@@ -1,9 +1,9 @@
 # foss-apps-on-android
 App store: Fdroid
 
-Propietary front end app alternatives
+## Propietary front end app alternatives
 
-Play store - Aurora Droid
+|Play store|Aurora Droid|
 
 Youtube - Newpipe
 
