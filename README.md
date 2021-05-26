@@ -1,4 +1,4 @@
-# foss-apps-on-android
+# FOSS apps on android
 **App store: Fdroid**
 
 ## Propietary front end app alternatives
