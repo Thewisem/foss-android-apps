@@ -1,5 +1,5 @@
 # foss-apps-on-android
-App store: Fdroid
+**App store: Fdroid**
 
 ## Propietary front end app alternatives
 
@@ -10,9 +10,9 @@ App store: Fdroid
 |[Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitch&pcampaignid=APPU_1_eEGuYLiPEdWB-QbLpLbgDw)|[twire](https://f-droid.org/packages/com.perflyst.twire)|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtwitter&pcampaignid=APPU_1_70GuYKvgDbCh-QbZ9bK4AQ)|[fritter](https://f-droid.org/packages/com.jonjomckay.fritter)|
 |[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtelegram&pcampaignid=APPU_1_6TyuYKGAIMG9hwPxlKOIBA)|[Telegram foss](https://f-droid.org/packages/org.telegram.messenger) or [Nekogram X](https://fdroid.org/packages/nekox.messenger)|
-|Facebook|[SlimSocial](https://f-droid.org/packages/it.rignanese.leo.slimfacebook) or [frost](https://f-droid.org/packages/com.pitchedapps.frost)|
-|Instagram|Barinsta|
-|Reddit|Stealth or Infinity|
+|[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfacebook&pcampaignid=APPU_1_n1uuYKDiA-LjrgTIrpmQAw)|[SlimSocial](https://f-droid.org/packages/it.rignanese.leo.slimfacebook) or [frost](https://f-droid.org/packages/com.pitchedapps.frost)|
+|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_IN&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dinstagram&pcampaignid=APPU_1__1uuYOyDF86QrgT8n7H4BQ)|[Barinsta](https://f-droid.org/packages/me.austinhuang.instagrabber)
+|[Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dreddit&pcampaignid=APPU_1_p1yuYLi4IMTxhwPU3KKgBg)|[Stealth](https://f-droid.org/packages/com.cosmos.unreddit) or [Infinity](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)|
 
 
 
@@ -22,51 +22,30 @@ App store: Fdroid
 
 
 ## Google App and Social Media Replacements
-
-
-Hangouts - Signal (under some problems due to cryptocurrency) or Session
-
-Maps - OpenStreetMaps
-
-Youtube: Peertube or LBRY. Or Invidious for youtube videos without google tracking
-
-Twitter - Mastodon
-
-Facebook - Mastodon/Diaspora.
-
-Instagram- Pixelfed/Plermora
-
-Google Source code developement or Github - Gitlab or Codeberg
-
-Google Photos - Stingle
-
-Google Play - Fdroid
-
-Reddit - Lemmy
-
-Google Meet/Zoom: Jitsi Meet
-
-Google Drive - Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)
-
-Google Notes - Nextcloud notes, etesync or standard notes
-
-Google Tasks - SimpleTasks or Nextcloud Tasks
-
-Whatsapp - Signal/Session, or Jami
-
-Google Camera - Open Camera
-
-Google Translate - Libre Translate
-
-Google Chrome - Firefox or Bromite. Ya know firefox. Bromite is an privacy version of chrome. Try it. And tor is the safest browser on android. Firefox on android is not great. I would reccomend on fenix on fdroid which is a fork of firefox but it has less trackers as compared to firefox
-
-Microsoft word/Excel/powerpoint - Collabora Office on mobile. LibreOffice on desktop
-
-Gboard - AnySoftKeyboard or FlorisBoard. Pick your poison
-
-Dischord - Matrix.org. Android client element
-
-Gmail - ProtonMail
+|GApps and Social Media|Federated or FOSS alternatives|
+|----------------------|------------------------------|
+|Hangouts|Signal (under some problems due to cryptocurrency) or Session|
+|Maps|OpenStreetMaps|
+|Youtube|Peertube or LBRY. Or Invidious for youtube videos without google tracking|
+|Twitter|Mastodon|
+|Facebook|Mastodon/Diaspora|
+|Instagram|Pixelfed/Plermora|
+|Google Source code developement or Github|Gitlab or Codeberg|
+|Google Photos|Stingle|
+|Google Play|Fdroid|
+|Reddit|Lemmy|
+|Google Meet/Zoom|Jitsi Meet|
+|Google Drive|Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)|
+|Google Notes|Nextcloud notes, etesync or standard notes|
+|Google Tasks|SimpleTasks or Nextcloud Tasks|
+|Whatsapp|Signal/Session, or Jami|
+|Google Camera|Open Camera|
+|Google Translate|Libre Translate|
+|Google Chrome|Firefox or Bromite. Ya know firefox. Bromite is an privacy version of chrome. Try it. And tor is the safest browser on android. Firefox on android is not great. I would reccomend on fenix on fdroid which is a fork of firefox but it has less trackers as compared to firefox|
+|Microsoft word/Excel/powerpoint|Collabora Office on mobile. LibreOffice on desktop|
+|Gboard|AnySoftKeyboard or FlorisBoard. Pick your poison|
+|Dischord|Matrix.org. Android client element|
+|Gmail|ProtonMail|
 
 ## FOSS apps you should try available on fdroid
 
