@@ -3,6 +3,8 @@ App store: Fdroid
 
 ## Propietary front end app alternatives
 
+|Propietary|Foss|
+|----------|----|
 |Play store|Aurora Droid|
 
 Youtube - Newpipe
