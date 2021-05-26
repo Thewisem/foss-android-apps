@@ -7,7 +7,7 @@ App store: Fdroid
 |----------------------|---------------|
 |Play store|Aurora Droid|
 |Youtube|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
-|Twitch|[twire](ttps://f-droid.org/packages/com.perflyst.twire)|
+|Twitch|[twire](https://f-droid.org/packages/com.perflyst.twire)|
 |Twitter|fritter|
 |Telegram|Telegram foss|
 |Facebook|SlimSocial|
