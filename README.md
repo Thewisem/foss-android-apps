@@ -76,7 +76,7 @@ Gmail - ProtonMail
 |Kotatsu|Manga Reader|
 |Loop Habit Tracker|Your habit tracking app. Start your new habit with this.|
 
-Noice - A relaxing nature sound app. Create your own nature using the sounds in this app
+|Noice|A relaxing nature sound app. Create your own nature using the sounds in this app|
 
 Anki Droid - A flashcard app which helps students study
 
