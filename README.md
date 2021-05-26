@@ -3,23 +3,23 @@ App store: Fdroid
 
 ## Propietary front end app alternatives
 
-|Propietary|Foss|
-|----------|----|
+|Proprietary|Foss|
+|-----------|----|
 |Play store|Aurora Droid|
 
-Youtube - Newpipe
+|Youtube|Newpipe|
 
-Twitch - twire
+|Twitch|twire|
 
-Twitter - fritter
+|Twitter|fritter|
 
-Telegram - Telegram foss
+|Telegram|Telegram foss|
 
-Facebook - SlimSocial
+|Facebook|SlimSocial|
 
-Instagram- Barinsta
+|Instagram|Barinsta|
 
-Reddit - Stealth or Infinity
+|Reddit|Stealth or Infinity|
 
 Google App and Social Media Replacements
 
