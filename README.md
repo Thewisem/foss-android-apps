@@ -8,8 +8,8 @@ App store: Fdroid
 |Play store|Aurora Droid|
 |Youtube|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
 |Twitch|[twire](https://f-droid.org/packages/com.perflyst.twire)|
-|Twitter|fritter|
-|Telegram|Telegram foss|
+|Twitter|[fritter](https://f-droid.org/packages/com.jonjomckay.fritter)|
+|[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtelegram&pcampaignid=APPU_1_6TyuYKGAIMG9hwPxlKOIBA)|[Telegram foss](https://f-droid.org/packages/org.telegram.messenger) or [Nekogram X](https://fdroid.org/packages/nekox.messenger)|
 |Facebook|SlimSocial|
 |Instagram|Barinsta|
 |Reddit|Stealth or Infinity|
@@ -22,6 +22,7 @@ App store: Fdroid
 
 
 ## Google App and Social Media Replacements
+
 
 Hangouts - Signal (under some problems due to cryptocurrency) or Session
 
