@@ -3,25 +3,25 @@ App store: Fdroid
 
 ## Propietary front end app alternatives
 
-|Proprietary|Foss|
-|-----------|----|
+|Proprietary front ends|Foss front ends|
+|----------------------|---------------|
 |Play store|Aurora Droid|
-
-|Youtube|Newpipe|
-
-|Twitch|twire|
-
+|Youtube|[Newpipe](https://github.com/TeamNewPipe/NewPipe)|
+|Twitch|[twire](ttps://f-droid.org/packages/com.perflyst.twire)|
 |Twitter|fritter|
-
 |Telegram|Telegram foss|
-
 |Facebook|SlimSocial|
-
 |Instagram|Barinsta|
-
 |Reddit|Stealth or Infinity|
 
-Google App and Social Media Replacements
+
+
+
+
+
+
+
+## Google App and Social Media Replacements
 
 Hangouts - Signal (under some problems due to cryptocurrency) or Session
 
