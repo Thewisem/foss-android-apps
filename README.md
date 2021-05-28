@@ -34,8 +34,8 @@
 |Google Photos <sup>**[[Play Store](https://play.google.com/)]**</sup>|[Stingle](https://f-droid.org/en/packages/org.stingle.photos/) <sup>**[[Fdroid](https://www.f-droid.org/)**</sup>|
 |[Google Play](https://play.google.com/)]|[Fdroid](https://www.f-droid.org/)|
 |[Reddit](https://www.reddit.com/)|[Lemmy](https://join.lemmy.ml/)|
-|[Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dgoogle+meet&pcampaignid=APPU_1_VCmxYP3EIcSSwPAPl-ikoAQ) <sup>**[[Play Store](https://play.google.com/)**</sup>/[Zoom](https://www.google.com/search?q=zoom&safe=strict&ei=HiqxYKj3F4HurgTmsYb4Bg&oq=zoom&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEdQwgdYwgdgvghoAHABeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#) <sup>**[[Play Store](https://play.google.com)**</sup>|[Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) <sup>**[[Fdroid](|
-|Google Drive|Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)|
+|[Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dgoogle+meet&pcampaignid=APPU_1_VCmxYP3EIcSSwPAPl-ikoAQ) <sup>**[[Play Store](https://play.google.com/)**</sup>/[Zoom](https://www.google.com/search?q=zoom&safe=strict&ei=HiqxYKj3F4HurgTmsYb4Bg&oq=zoom&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEdQwgdYwgdgvghoAHABeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#) <sup>**[[Play Store](https://play.google.com)**</sup>|[Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) <sup>**[[Fdroid](https://www.f-droid.org/)]**</sup>|
+|[Google Drive]|Nextcloudfor self host or Mega for cloud storage (35 gb is only for first month then it dissapears so its only 15 gb)|
 |Google Notes|Nextcloud notes, etesync or standard notes|
 |Google Tasks|SimpleTasks or Nextcloud Tasks|
 |Whatsapp|Signal/Session, or Jami|
